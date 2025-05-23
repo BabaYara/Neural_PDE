@@ -1,5 +1,5 @@
 import jax
-from kfacpinn.nets.mlp import init_mlp, mlp
+from kfacpinn.nets.mlp import init_mlp
 from kfacpinn.training_loop import Trainer
 
 
