@@ -1,0 +1,3 @@
+inherit: base.yaml
+num_trees: 4
+num_agents: 2
