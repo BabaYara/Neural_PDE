@@ -1,6 +1,6 @@
-# KFAC PINN
+# Neural PDE
 
-A package for experimenting with physics-informed neural networks using a plug-and-play regularizer system. The project is inspired by a composable HJB solver layout.
+A package for experimenting with different solution techniques for SDE using physics-informed neural networks techniques.
 
 ## Installation
 
