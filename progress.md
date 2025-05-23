@@ -4,7 +4,7 @@ This file documents the ongoing tasks for the KFAC-based PINN package.
 
 ## TODO
 - [ ] Phase 0: create empty branch `modular-loss-suite` and add folder skeleton
-- [ ] Phase 0: add `finance_hjb_losses.py` to `hjbcore/loss/`
+- [x] Phase 0: add `finance_hjb_losses.py` to `hjbcore/loss/`
 - [ ] Phase 1: refactor monolithic code into modules
 - [ ] Phase 1: wire `LossSuite` into training loop
 - [ ] Phase 1: add `tests/test_loss_smoke.py`
